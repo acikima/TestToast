@@ -1,8 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     package="org.nativescript.ima.testtoast">
 
-    <application
-        android:allowBackup="true"
-        tools:replace="android:icon" />
+
 </manifest>
